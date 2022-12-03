@@ -4,18 +4,20 @@
     "url": "https://xandevelopers.tk",
     "icon": "https://icons.duckduckgo.com/ip3/xandevelopers.tk.ico",
     "slug": "xan-web-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 430,
-    "timeDay": 307,
-    "timeWeek": 322,
-    "timeMonth": 369,
-    "timeYear": 430,
-    "dailyMinutesDown": {}
+    "time": 427,
+    "timeDay": 244,
+    "timeWeek": 304,
+    "timeMonth": 363,
+    "timeYear": 427,
+    "dailyMinutesDown": {
+      "2022-12-03": 0
+    }
   },
   {
     "name": "Xan Docs",
